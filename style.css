@@ -1,0 +1,10 @@
+news{
+    border: 5px black;
+    height: 300px;
+    width: 500px;
+}
+container{
+    border:5px red ;
+    height: 500px;
+    width: 500px;
+}
